@@ -2,8 +2,9 @@ The Notebooks in this project create tables with data from the US Census' Econom
 
 There are additional crosswalk details in the *references* directory that may inform the development of additional crosswalks and taxonomies.
 
-project-template (originating from https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
+project-template
 ==============================
+(originating from https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
 
 template for the team to use
 
