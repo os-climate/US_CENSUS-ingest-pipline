@@ -1,4 +1,8 @@
-project-template
+The Notebooks in this project create tables with data from the US Census' Economic Survey (https://www.census.gov/data/developers/data-sets/economic-census.html) published every 5 years, as well as tables that provide a crosswalk between the NAICS codes used by US Census, ISIC, and SIC codes (used by SIC).
+
+There are additional crosswalk details in the *references* directory that may inform the development of additional crosswalks and taxonomies.
+
+project-template (originating from https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
 ==============================
 
 template for the team to use
